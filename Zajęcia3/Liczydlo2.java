@@ -1,0 +1,2 @@
+public class Liczydlo2 {
+}
